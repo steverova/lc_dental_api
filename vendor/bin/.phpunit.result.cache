@@ -1,0 +1,1 @@
+{"version":1,"defects":{"testPatients::testRouteExists":3,"testPatients::testConexionDB":4},"times":{"testPatients::testRouteExists":0.015,"testPatients::testGetPatient":0.696,"testPatients::testConexionDB":0.376}}
